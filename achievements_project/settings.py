@@ -25,8 +25,8 @@ SECRET_KEY = "django-insecure-^+53y@5u#9^*n^w1n9(%xvjbgrr!@f1qn=2$wq-oemq4a!&k6j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['achievement-task.onrender.com']
-CSRF_TRUSTED_ORIGINS = ['https://achievement-task.onrender.com']
+ALLOWED_HOSTS = ['achievement-task.onrender.com','unlikely-verena-alds-47313b8a.koyeb.app']
+CSRF_TRUSTED_ORIGINS = ['https://achievement-task.onrender.com','https://unlikely-verena-alds-47313b8a.koyeb.app']
 
 # Application definition
 
